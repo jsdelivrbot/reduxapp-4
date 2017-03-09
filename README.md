@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# ReduxSimpleStarter Clonded by Me Fz
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
